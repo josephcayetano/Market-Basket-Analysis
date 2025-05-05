@@ -1,5 +1,11 @@
 # D599-Task-3-Market-Basket-Analysis
+### Market Basket Analysis – Retail Transactions
+-	Prepared and transactionalized 400+ retail transactions for market basket analysis using Python (mlxtend, pandas).
+-	Performed association rule mining with the Apriori algorithm, generating high-confidence rules (lift > 80) to identify products frequently purchased together.
+-	Recommended bundling strategies and personalized promotions to increase cross-selling opportunities.
 
+
+### Files
 1. README.md - A file describing other files in this repository.
 
 2. D599 Task 3.ipynb - A Jupyter Notebook file that contains the code for market basket analysis.
