@@ -1,4 +1,4 @@
-# D599-Task-3-Market-Basket-Analysis
+# Market Basket Analysis
 ### Overview
 This project applies market basket analysis to retail transaction data to uncover purchasing patterns and product associations. Using association rule mining (Apriori algorithm), the analysis identifies frequent itemsets and strong association rules to support cross-selling strategies and promotional planning.
 
