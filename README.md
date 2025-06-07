@@ -1,11 +1,11 @@
 # Market Basket Analysis
 ### Overview
-This project applies market basket analysis to retail transaction data to uncover purchasing patterns and product associations. Using association rule mining (Apriori algorithm), the analysis identifies frequent itemsets and strong association rules to support cross-selling strategies and promotional planning.
+This project used market basket analysis to find patterns in retail purchases and suggest products that are often bought together. The goal was to help with cross-selling and promotions.
 
 ### Market Basket Analysis – Retail Transactions
--	Prepared and transactionalized 400+ retail transactions for market basket analysis using Python (mlxtend, pandas).
--	Performed association rule mining with the Apriori algorithm, generating high-confidence rules (lift > 80) to identify products frequently purchased together.
--	Recommended bundling strategies and personalized promotions to increase cross-selling opportunities.
+-	Processed over 400 retail transactions using Python (pandas, mlxtend) to prepare data for analysis
+-	Used the Apriori algorithm to find item combinations with strong associations (e.g., lift > 80)
+-	Suggested bundling and personalized promotion ideas to help boost sales and cross-selling
 
 
 ### Files
